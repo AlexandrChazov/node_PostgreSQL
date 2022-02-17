@@ -1,0 +1,27 @@
+{
+  "name": "node_PostgreSQL",
+  "version": "1.0.0",
+  "description": "rtt",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandrChazov/node_PostgreSQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandrChazov/node_PostgreSQL/issues"
+  },
+  "homepage": "https://github.com/AlexandrChazov/node_PostgreSQL#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "pg": "^8.7.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
